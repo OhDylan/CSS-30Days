@@ -213,8 +213,8 @@ GRADIENT BORDERED BUTTONS
     transition: all 0.3s ease-in-out;
 }
 
-.gradient-button-1:hover{
-    background-image: linear-gradient(to right, orangered, transparent);
-    color: white;
-    border-right-style: none;
-}
+    .gradient-button-2:hover{
+        background-image: linear-gradient(to right, orangered, transparent);
+        color: white;
+        border-right-style: none;
+    }
