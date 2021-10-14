@@ -103,6 +103,10 @@
     -webkit-transition: all 0.3s ease;
     transition: all 0.3s ease;
   }
+
+  .register-block::after{
+      transition-delay: 0.07s;
+  }
   .register-block:hover:before {
     z-index: -1;
     -webkit-transform: scale(0.96) translate(0, 16px);
